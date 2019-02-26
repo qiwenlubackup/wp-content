@@ -1,0 +1,233 @@
+/* Themify Customize Styling */
+body {	background-image: url(https://qiwen.lu/wp-content/uploads/2017/07/bg-light.jpg);
+	background-repeat: repeat;	font-weight:normal;
+ 
+}
+#headerwrap {	background: none;
+	background-color: #be252a;background-image: url(https://qiwen.lu/wp-content/uploads/2017/07/header-bg.png); 
+}
+body[class*="themify"] #site-logo a img {		width: 104px;
+	height: 35px; 
+}
+@media screen and (max-width: 1024px) { /* Themify Customize Styling */
+body[class*="themify"] #site-logo a img {		width: 104px;
+	height: 35px; 
+}
+ }@media screen and (max-width: 768px) { /* Themify Customize Styling */
+body[class*="themify"] #site-logo a img {		width: 104px;
+	height: 35px; 
+}
+ }@media screen and (max-width: 560px) { /* Themify Customize Styling */
+body[class*="themify"] #site-logo a img {		width: 104px;
+	height: 35px; 
+}
+ }
+/* Themify Custom CSS */
+body {
+    font-family: "source-han-sans-simplified-c", "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    color: #3d464d;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+#site-description {
+    display: none;
+}
+
+.page .pagewidth {
+    width: 1050px;
+}
+
+#main-nav li {
+    margin-right: 8px;
+}
+
+.post-title {
+font: 500 normal 2em/1.1em "source-han-sans-simplified-c", "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+}
+
+.page-title {
+	margin: 0 0 1em;
+	padding: 0;
+	font-weight: 500;
+	font-size: 1.8em;
+	line-height: 1.1em;
+}
+
+#social-wrap {
+top: 16px;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.post-title a:hover {
+    text-decoration: none;
+}
+
+blockquote {
+    color: #d93d42;
+    font-family: "source-han-sans-simplified-c", "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+    line-height: 1.45;
+    padding: 5px 20px 0px 40px;
+    position: relative;
+}
+
+blockquote p {
+    font-size: 1.3rem;
+    font-style: normal;
+    line-height: 1.6;
+}
+
+blockquote cite {
+    color: #999999;
+    display: block;
+    font-size: 16px;
+    margin-top: -10px;
+    text-align: right;
+}
+
+blockquote:before {
+    display: block;
+    content: "\201C";
+    font-size: 80px;
+    font-family: Poppins;
+    font-style: normal;
+    position: absolute;
+    left: 6px;
+    top: 14px;
+    color: #d93d42;
+}
+
+.page-content {
+    background: #fff none repeat scroll 0 0;
+    border-radius: 5px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+    margin-bottom: 30px;
+    padding: 1rem;
+}
+
+.post-comment {
+display:none;
+}
+
+.loops-wrapper.grid3 .post-title {
+    font-size: 1.5em;
+    line-height: 32px;
+    margin-top: -6px;
+}
+
+#main-nav {
+    top: 17px;
+}
+
+div.yinyu {
+    font-family: "source-han-sans-simplified-c", "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+    font-style:italic;
+    font-size: 16px;
+    line-height: 28px;
+    padding: 0px 30px 15px;
+}
+
+p {
+    margin: 0 0 1.2em;
+    padding: 0;
+    font-size: 1rem;
+    line-height: 28px;
+}
+
+.single p {
+    margin: 30px 0;
+    line-height: 30px;
+}
+
+.page p {
+    margin: 30px 0;
+    line-height: 30px;
+}
+
+.more-link {
+    background: none repeat scroll 0 0 #B12D21;
+    font-size: 90%;
+    margin-left: 0;
+    padding: 5px 6px 6px;
+}
+
+.entry-content {
+   margin-top: 1.1em;
+}
+
+.post-date {
+    font: normal 90%/100% "source-han-sans-simplified-c", "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+}
+
+.widgettitle {
+font-family: "source-han-sans-simplified-c", "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+}
+
+.list-post .post-meta .post-zhenyu { color: #4C4C4C; margin: 4px 36px 0 0; clear:both; line-height: 24px; }
+
+.list-post .post-meta { margin-top:10px;}
+
+.list-post .post-meta .post-comment a { color: #4C4C4C; }
+
+.sa-source-wrapper p.news-source {
+    margin: 0;
+    font-size: 14px;
+}
+
+.sa-source-wrapper {
+    font-size: 14px;
+    margin-bottom: -15px;
+    margin-top: -10px;
+}
+
+.single .wp-caption-text {
+    line-height: 28px;
+    margin-top: 2px;
+}
+
+.social-widget div.rss a:before {
+top: 0px;
+}
+
+.single .post .author-pic {
+    display: none;
+}
+
+.post-author {
+    display: none;
+}
+
+.list-post .post-meta {
+    margin-top: 0px;
+}
+
+.single .post-meta {
+    font-size: 1em;
+}
+
+.single .wp-caption-text {
+	line-height: 22px;
+	margin-top: 2px;
+  text-align: left;
+  color: #838383;
+	font-size: .8em;
+}
+
+/* --- disqus css -- */
+
+#disqus_thread {
+padding: 20px;
+}
+
+/*--- end disqus css --*/
